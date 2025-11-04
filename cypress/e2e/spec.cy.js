@@ -198,9 +198,6 @@ describe('Automation Webpage project', () => {
     cy.press(Cypress.Keyboard.Keys.DOWN)
     cy.press(Cypress.Keyboard.Keys.DOWN)
     cy.press(Cypress.Keyboard.Keys.DOWN)
-    
-
-
   });
 
 
